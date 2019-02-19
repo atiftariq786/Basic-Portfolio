@@ -1,0 +1,96 @@
+
+body {
+    background-image: url("C:/Users/Hassan/Desktop/atifcoding/images/background.png");
+
+}
+/*  SECTION-1: Top Bar */
+.top-bar{
+    Background: white;
+    border-color: solid grey 2px;
+    overflow: auto;
+}
+
+.top-wrap{
+    margin: auto;
+    width: 960px;
+}
+
+.top-bar-name{
+    float: left;
+    background: #4aaaa5;
+    padding: 5px 20px;
+}
+
+.h1__top-bar{
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.nav-link-wrap {
+    float: left;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+}
+
+.top-bar-navigation {
+    float: right;
+    padding: 35px 0px 10px 0px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-link{
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+.nav-link-spacer{
+    float: left;
+    margin:0px 10px 0px 10px;
+}
+
+/*  SECTION-2: Middle Bar */
+
+.middle-bar{
+    background: #ffffff;
+    width: 960px;
+    margin: 30px auto;
+}
+.middle-wrap{
+    margin: auto;
+    width: 960px;
+    height: 660px;
+}
+
+.middle-bar-content-wrap-main{
+    padding: 20px 20px 20px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    
+}
+
+h1{
+    color:#4aaaa5;
+}
+
+.hr-content{
+    color: #777777
+    
+}
+
+.profile-pic{
+    padding: 10px 10px 10px 10px;
+    float: left;
+}
+.p1, .p2{
+    line-height:25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+
+
+
+
+
