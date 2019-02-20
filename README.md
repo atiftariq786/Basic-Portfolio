@@ -5,11 +5,11 @@
 
 ## Image
 
-![alt text]( "Basic Portfolio_About me")
+![alt text](https://github.com/atiftariq786/Basic-Portfolio/blob/master/assets/images/Basic%20Portfolio_About-me.png?raw=true "Basic Portfolio_About me")
 
-![alt text]( "Basic Portfolio_Contact")
+![alt text](https://github.com/atiftariq786/Basic-Portfolio/blob/master/assets/images/Basic%20Portfolio_Contact.png?raw=true "Basic Portfolio_Contact")
 
-![alt text]( "Basic Portfolio_Portfolio")
+![alt text](https://github.com/atiftariq786/Basic-Portfolio/blob/master/assets/images/Basic%20Portfolio_Portfolio.png?raw=true "Basic Portfolio_Portfolio")
 
 ## Getting Started
 
