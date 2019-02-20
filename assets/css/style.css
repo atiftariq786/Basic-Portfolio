@@ -144,3 +144,65 @@ button {
 	color: #ffffff;
 	
 }
+
+/*  PORTFOLIO_SECTION-1: Middle bar/box/main */
+
+.portfolio-middle-wrap{
+    margin: auto;
+    width: 960px;
+	height: 800px;
+}
+
+.portfolio-item__right {
+    float: right;
+}
+
+.portfolio-item {
+    position: relative;
+    width: 275px;
+    height: 205px;
+    margin: 30px 0px 30px 0px;
+}
+
+.standard-text {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+}
+
+.portfolio-pic {
+    width: 100%;
+    height: 100%;
+}
+
+.h2__portfolio-title {
+    color: #ffffff;
+    font-weight: normal;
+    line-height: 2;
+	margin: 5px 0px 5px 0px;
+}
+
+h2 {
+    font-size: x-large;
+}
+
+.portfolio-title {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    background-color: #4aaaa5;
+}
+
+.portfolio-item__left {
+    float: left;
+}
+
+.portfolio-item__right {
+    float: right;
+}
+
